@@ -25,10 +25,9 @@ Quickstart
 See the [installation guide](http://docs.raneto.com/install/installing-raneto) for more information.
 
 Supported Node Versions:
-- v14.x.x (Current)
-- v12.x.x (LTS)
-- v10.x.x (LTS)
-Please use the latest version available of the above major Node.js releases to ensure you have the latest security fixes! 
+
+- v10.x.x
+- v8.x.x
 
 Links
 ---------------
